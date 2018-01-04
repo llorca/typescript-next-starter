@@ -1,0 +1,11 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    TNS_CONFIG_NAME -- TNS_CONFIG_URL
+
+# TECHNOLOGY COLOPHON
+
+    TypeScript, HTML, CSS
+    React, Next, Normalize
